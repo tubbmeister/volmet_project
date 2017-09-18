@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="AirportsArray">
+        <item>Barcelona</item>
+        <item>Bordeaux</item>
+        <item>Madrid</item>
+        <item>Paris</item>
+        <item>Marseille</item>
+        <item>Faro</item>
+        <item>Lisbon</item>
+        <item>TEST</item>
+
+
+    </array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
